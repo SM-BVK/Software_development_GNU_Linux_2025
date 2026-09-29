@@ -1,2 +1,2 @@
-# Software_development_GNU_Linux_2025
-Course "Software Development for GNU/Linux 2025"
+# Software_development_GNU_Linux_2026
+Course "Software Development for GNU/Linux 2026"
